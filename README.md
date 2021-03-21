@@ -14,7 +14,7 @@ Guia prático para iniciantes
 - [X] Você adiciona as nova funcionalidades ao seu prejeto em produção.
 - [X] Você quer deletar a branch da nova funcionalidade, depois da aplicar em seu projeto.
 
-- [] Você quer colocar seu projeto na nuvem.
+- [X] Você quer colocar seu projeto na nuvem.
 
 * `git init` // inicia a linha do tempo
 * `git add` // adiciona ou atualiza mudanças para item para a linha do tempo
